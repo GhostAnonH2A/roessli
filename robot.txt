@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.roessli-arlesheim.ch/aston777/sitemap.xml
